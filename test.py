@@ -14,3 +14,9 @@ print (liste)
 liste2 = [random.randint(0,10) for i in range(20)]
 
 print (liste2)
+
+# 3e commit branch1"
+
+liste3 = [random.randrange(0,10) for i in range(20)]
+
+print (liste3)
